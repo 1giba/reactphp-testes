@@ -1,5 +1,5 @@
 <?php
-
+// Exemplo com Socket
 function curl_post_async($url, $params)
 {
     foreach ($params as $key => &$val) {

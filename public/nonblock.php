@@ -1,5 +1,5 @@
 <?php
-
+//Exemplo NonBlock
 require '../vendor/autoload.php';
 
 $app = function($request, $response) {

@@ -1,5 +1,5 @@
 <?php
-
+// Exemplo com Guzzle
 require '../vendor/autoload.php';
 
 use GuzzleHttp\Client;
