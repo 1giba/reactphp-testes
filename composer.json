@@ -1,0 +1,7 @@
+{
+	
+    "require": {
+        "react/react": "^0.4.2",
+        "guzzlehttp/guzzle": "^6.1"
+    }
+}
